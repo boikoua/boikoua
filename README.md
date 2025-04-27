@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Dmitry Boiko</h1>
+<h1 align="center">Hi 👋, I'm Dmitry Boiko</h1>
 <h3 align="center">A frontend developer from Kharkiv, Ukraine🏡</h3>
 <h4 align="center">I'm interested in web development and technology.👀</h4>
 <h4 align="center">I'm currently learning Front End Development.😀</h4>
